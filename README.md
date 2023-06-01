@@ -1,9 +1,10 @@
 # Checklists
 
 There are some examples of cheklists created by me.
+
 [Чек-лист API Яндекс Прилавок](https://docs.google.com/spreadsheets/d/1ML85aRxuNKTSj5PJ-HdJZcRmJX4G7kFo7fRWoPwsFxI/edit?usp=sharing)
 
-[Чек-лист API Яндекс Самокат](hhttps://docs.google.com/spreadsheets/d/19CBVW03A2rQgeQapSouEwldZKWsX-TPGSO_-ULZSIVY/edit?usp=sharing)
+[Чек-лист API Яндекс Самокат](https://docs.google.com/spreadsheets/d/19CBVW03A2rQgeQapSouEwldZKWsX-TPGSO_-ULZSIVY/edit?usp=sharing)
 
 [Чек-лист экрана Статус заказа](https://docs.google.com/spreadsheets/d/1aTZUGf9IL7idrddrCrSsbK1YgwgN17FQhVOTTdjNZjQ/edit?usp=sharing)
 
